@@ -1,0 +1,23 @@
+.education{
+  background-color: $gray-lighter;
+}
+
+.card{
+  background-color: white;
+  border-radius: 4px;
+  padding: 10px;
+  position: relative;
+}
+
+.card-company{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+}
+
+.card-category{
+  font-size: 18px;
+  font-weight: bold;
+}
+
