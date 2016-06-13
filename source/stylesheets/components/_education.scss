@@ -7,6 +7,9 @@
   border-radius: 4px;
   padding: 10px;
   position: relative;
+  opacity: 0.9;
+
+  margin-top: 10px;
 }
 
 .card-company{
@@ -21,3 +24,27 @@
   font-weight: bold;
 }
 
+.slide{
+  opacity: 0.4;
+}
+
+.down{
+  width: 30px;
+  position: absolute;
+  bottom: -5px;
+  left: 200px;
+  color:  $green;
+}
+
+.miniwrap{
+  width: 400px;
+}
+
+.picci:hover{
+  opacity: 0.2;
+
+}
+
+.picci{
+  transition: all 0.15s ease;
+}
