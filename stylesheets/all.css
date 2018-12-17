@@ -294,10 +294,6 @@ th {
     page-break-after: avoid; }
 
 
-  .contact{
-    padding-right: 6%;
-  }
-
   #onderkant{
     padding-left: 0%;
   }
@@ -10372,7 +10368,7 @@ i:hover {
 /* line 12, /home/merel/code/MerelSteenbrink/portofolio/source/stylesheets/components/_footer.scss */
 .contact {
   position: absolute;
-  right: 20px;
+  padding-right: 8% ;
   top: 10px; }
 
 /* line 2, /home/merel/code/MerelSteenbrink/portofolio/source/stylesheets/components/_skills.scss */
