@@ -293,6 +293,14 @@ th {
   h3 {
     page-break-after: avoid; }
 
+
+  .contact{
+    padding-right: 6%;
+  }
+
+  #onderkant{
+    padding-left: 0%;
+  }
   /* line 72, /home/merel/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_print.scss */
   .navbar {
     display: none; }
